@@ -1,0 +1,21 @@
+{
+  "name": "Expense_Tracker",
+  "version": "1.0.0",
+  "description": "An Expense Tracking App",
+  "main": "index.js",
+  "scripts": {
+    "server": "npm run watch --prefix server",
+    "client": "npm run front --prefix client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/CrownSupercedes/Expense_Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrownSupercedes/Expense_Tracker/issues"
+  },
+  "homepage": "https://github.com/CrownSupercedes/Expense_Tracker#readme"
+}

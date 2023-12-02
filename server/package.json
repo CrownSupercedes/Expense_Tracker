@@ -1,0 +1,29 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Expense Tracker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "watch": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrownSupercedes/Expense_Tracker.git"
+  },
+  "keywords": [
+    "MERN"
+  ],
+  "author": "Adetops",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrownSupercedes/Expense_Tracker/issues"
+  },
+  "homepage": "https://github.com/CrownSupercedes/Expense_Tracker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "server": "npm run watch --prefix server",
-    "client": "npm run front --prefix client"
+    "client": "npm run start --prefix client",
+    "watch": "npm run server & yarn client"
   },
   "repository": {
     "type": "git",
